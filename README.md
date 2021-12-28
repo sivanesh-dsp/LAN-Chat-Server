@@ -3,7 +3,7 @@
 This Project can be used for chatting in Local Area Network
 Also this is my college project
 
-Run LAN-Chat-Server-main\website\main.py to chat with you LAN users
+Run website\main.py to chat with you LAN users
 
 
 # Messages Stored
