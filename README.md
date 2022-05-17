@@ -1,7 +1,7 @@
 # LAN-Chat-Server
 
 This Project can be used for chatting in Local Area Network
-Also this is my college project
+Also this is my college project.<br>
 I am currently working on this project to integrate OTP authentication login
 
 Run `main.py` to chat with you LAN users
